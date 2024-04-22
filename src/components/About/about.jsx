@@ -1,5 +1,5 @@
-import React from "react";
-import aboutImg from "./assets/reshot-icon-programmer-A734K8CJMZ.svg";
+// import React from "react";
+// import aboutImg from "./assets/reshot.svg";
 import "./about.css";
 
 const AboutSection = () => {
@@ -35,7 +35,7 @@ const AboutSection = () => {
           </p> */}
         </div>
         <div className="about-right-section">
-          <img src={aboutImg} alt="img" className="hackathon-image" />
+          <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRhc2JkY3l1b3l4bmpoZXB1YXNpdXh1YTBvN3U2NjQ2OGkycWc4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="img" className="hackathon-image" />
         </div>
       </div>
     </div>
